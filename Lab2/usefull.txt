@@ -1,0 +1,5 @@
+https://www.danielhall.me/blog/strace-the-basics/
+
+The execve() system call takes a string called filename, and array of strings named argv and another array of strings names envp. The manpage tells us that it starts a program using the executable located at filename, with the arguments in argv and with the environment envp
+
+

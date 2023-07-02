@@ -1,0 +1,14 @@
+
+*
+
+!*.*
+
+!*/
+
+cmake-build-debug
+
+.idea
+
+.vscode
+
+Lab3/1/*/
